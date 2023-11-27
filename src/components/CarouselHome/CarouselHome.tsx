@@ -21,7 +21,7 @@ const CarouselHome = () => {
                     <img
                         className="d-block w-100"
                         style={{ maxHeight: "500px", objectFit: "cover" }}
-                        src="https://github.com/daniel-galetto/organizadordetareas/blob/945ce3193646c7418dbb7ad9697d651ebc313e0d/src/assets/images/image.jpg"
+                        src="https://img.freepik.com/vector-gratis/ordenador-portatil-realista-vista-superior_23-2147509355.jpg?1&w=360&t=st=1701053875~exp=1701054475~hmac=a2fb7e0473d4af84fc6013a1e813f56fc80f814f22863ecfc76b70a7cbadbbf7"
                         alt='organizdor de tareas'
                     />
                     <Carousel.Caption className='bg-black'>
@@ -34,7 +34,7 @@ const CarouselHome = () => {
                     <img
                         className="d-block w-100"
                         style={{ maxHeight: "500px", objectFit: "cover" }}
-                        src="/home/daniel/developer/utnreact/trabajoIntegrador/organizadorTareas/organizadortareas/src/assets/images/image1.jpg"
+                        src="https://img.freepik.com/psd-gratis/gente-negocios-trabajando-computadora-portatil_53876-12025.jpg?w=740&t=st=1701053916~exp=1701054516~hmac=c79aee5d3be5215915cb16a4475c460d9b61a1ad583257692951df59a433b512"
                         alt='organizdor de tareas'
                     />
                     <Carousel.Caption className='bg-black'>
