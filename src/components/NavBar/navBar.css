@@ -1,0 +1,16 @@
+.barra {
+    justify-content: center;
+}
+
+.banner {
+    object-fit: cover;
+    width:100%;
+    height:100%;
+}
+
+
+.center {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
