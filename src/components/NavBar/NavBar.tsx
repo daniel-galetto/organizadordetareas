@@ -39,7 +39,7 @@ const NavBar = () => {
 
     return (
         <>
-            <img className="banner" src="https://postimg.cc/V5LTHPdr" alt="Logo" />
+            <img className="banner" src="https://i.postimg.cc/4N7JFGps/banner.png" alt="Logo" />
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container>
                     <Navbar.Brand >ORGANIZADOR DE TAREAS</Navbar.Brand>
